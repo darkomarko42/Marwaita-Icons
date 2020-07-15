@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg66"
+   sodipodi:docname="preferences-desktop-theme.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview68"
+     showgrid="false"
+     inkscape:zoom="11.446291"
+     inkscape:cx="32.280463"
+     inkscape:cy="23.792148"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g64" />
+  <defs
+     id="defs38">
+    <linearGradient
+       id="linearGradient1072"
+       inkscape:collect="always">
+      <stop
+         id="stop1068"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop1070"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient864"
+       inkscape:collect="always">
+      <stop
+         id="stop860"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop862"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient916"
+       inkscape:collect="always">
+      <stop
+         id="stop912"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop914"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       filterUnits="objectBoundingBox"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       id="alpha">
+      <feColorMatrix
+         id="feColorMatrix2"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         type="matrix"
+         in="SourceGraphic" />
+    </filter>
+    <mask
+       id="mask0">
+      <g
+         style="filter:url(#alpha)"
+         id="g7">
+        <rect
+           id="rect5"
+           style="fill:#000000;fill-opacity:0.2"
+           y="0"
+           x="0"
+           height="384"
+           width="384" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip1">
+      <rect
+         id="rect10"
+         y="0"
+         x="0"
+         height="384"
+         width="384" />
+    </clipPath>
+    <g
+       clip-path="url(#clip1)"
+       id="surface5">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13"
+         d="m 276,198 c 0,46.39062 -37.60938,84 -84,84 -46.39063,0 -84,-37.60938 -84,-84 0,-46.39063 37.60937,-84 84,-84 46.39062,0 84,37.60937 84,84 z m 0,0"
+         style="fill:#000000" />
+    </g>
+    <mask
+       id="mask1">
+      <g
+         style="filter:url(#alpha)"
+         id="g18">
+        <rect
+           id="rect16"
+           style="fill:#000000;fill-opacity:0.2"
+           y="0"
+           x="0"
+           height="384"
+           width="384" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip2">
+      <rect
+         id="rect21"
+         y="0"
+         x="0"
+         height="384"
+         width="384" />
+    </clipPath>
+    <g
+       clip-path="url(#clip2)"
+       id="surface8">
+      <path
+         inkscape:connector-curvature="0"
+         id="path24"
+         d="M 192,24 C 99.214844,24 24,99.277344 24,192.13281 c 0.03516,0.8125 0.07813,1.625 0.128906,2.4375 C 26.0625,103.15625 100.63672,30.050781 192,30 c 91.75781,0.0625 166.49219,73.78516 167.87109,165.60156 0.0547,-1.15625 0.0977,-2.3125 0.12891,-3.46875 C 360,99.277344 284.78516,24 192,24 Z m 0,0"
+         style="fill:#ffffff" />
+    </g>
+    <mask
+       id="mask2">
+      <g
+         style="filter:url(#alpha)"
+         id="g29">
+        <rect
+           id="rect27"
+           style="fill:#000000;fill-opacity:0.2"
+           y="0"
+           x="0"
+           height="384"
+           width="384" />
+      </g>
+    </mask>
+    <clipPath
+       id="clip3">
+      <rect
+         id="rect32"
+         y="0"
+         x="0"
+         height="384"
+         width="384" />
+    </clipPath>
+    <g
+       clip-path="url(#clip3)"
+       id="surface11">
+      <path
+         inkscape:connector-curvature="0"
+         id="path35"
+         d="M 24.128906,194.36719 C 24.074219,195.52344 24.03125,196.67969 24,197.83594 24,290.71094 99.214844,366 192,366 c 92.78516,0 168,-75.28906 168,-168.16406 -0.0352,-0.8125 -0.0781,-1.625 -0.12891,-2.4375 C 357.9375,286.82812 283.36328,359.94922 192,360 100.24219,359.94141 25.507812,286.19922 24.128906,194.36719 Z m 0,0"
+         style="fill:#000000" />
+    </g>
+    <linearGradient
+       gradientTransform="matrix(0.05833334,0,0,0.05833334,0.8,360.7125)"
+       gradientUnits="userSpaceOnUse"
+       y2="99.548141"
+       x2="188.11018"
+       y1="28.622379"
+       x1="191.78363"
+       id="linearGradient918"
+       xlink:href="#linearGradient916"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.05833334,0,0,0.05833334,0.8,360.7125)"
+       y2="99.548141"
+       x2="188.11018"
+       y1="28.622379"
+       x1="191.78363"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient968"
+       xlink:href="#linearGradient916"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.11666667,0,0,0.11666667,1.6,337.6)"
+       gradientUnits="userSpaceOnUse"
+       y2="99.548141"
+       x2="188.11018"
+       y1="15.75"
+       x1="192"
+       id="linearGradient866"
+       xlink:href="#linearGradient864"
+       inkscape:collect="always" />
+    <filter
+       id="filter1455"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur1449"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix1451"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite1453"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix1577"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix1579" />
+      <feColorMatrix
+         id="feColorMatrix1605"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix1607" />
+      <feColorMatrix
+         id="feColorMatrix1613"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix1615" />
+    </filter>
+    <clipPath
+       id="clipPath967"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect969"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath971"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect973"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath975"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect977"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath979"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect981"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath983"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect985"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath987"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect989"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath991"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect993"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath995"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect997"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath999"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1001"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath1003"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1005"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath1007"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1009"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath1011"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1013"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       id="clipPath1011-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1013-6"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter1455-7"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur1449-5"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix1451-3"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite1453-5"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix1577-6"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix1579-2" />
+      <feColorMatrix
+         id="feColorMatrix1605-9"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix1607-1" />
+      <feColorMatrix
+         id="feColorMatrix1613-2"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix1615-7" />
+    </filter>
+    <clipPath
+       id="clipPath1007-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1009-9"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2161"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2143"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2145"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2147"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2149"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2151" />
+      <feColorMatrix
+         id="feColorMatrix2153"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2155" />
+      <feColorMatrix
+         id="feColorMatrix2157"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2159" />
+    </filter>
+    <clipPath
+       id="clipPath1003-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1005-6"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2183"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2165"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2167"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2169"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2171"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2173" />
+      <feColorMatrix
+         id="feColorMatrix2175"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2177" />
+      <feColorMatrix
+         id="feColorMatrix2179"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2181" />
+    </filter>
+    <clipPath
+       id="clipPath999-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect1001-6"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2205"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2187"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2189"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2191"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2193"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2195" />
+      <feColorMatrix
+         id="feColorMatrix2197"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2199" />
+      <feColorMatrix
+         id="feColorMatrix2201"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2203" />
+    </filter>
+    <clipPath
+       id="clipPath995-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect997-6"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2227"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2209"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2211"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2213"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2215"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2217" />
+      <feColorMatrix
+         id="feColorMatrix2219"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2221" />
+      <feColorMatrix
+         id="feColorMatrix2223"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2225" />
+    </filter>
+    <clipPath
+       id="clipPath991-1"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect993-8"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2249"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2231"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2233"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2235"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2237"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2239" />
+      <feColorMatrix
+         id="feColorMatrix2241"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2243" />
+      <feColorMatrix
+         id="feColorMatrix2245"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2247" />
+    </filter>
+    <clipPath
+       id="clipPath987-7"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect989-9"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2271"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2253"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2255"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2257"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2259"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2261" />
+      <feColorMatrix
+         id="feColorMatrix2263"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2265" />
+      <feColorMatrix
+         id="feColorMatrix2267"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2269" />
+    </filter>
+    <clipPath
+       id="clipPath983-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect985-0"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2293"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2275"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2277"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2279"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2281"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2283" />
+      <feColorMatrix
+         id="feColorMatrix2285"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2287" />
+      <feColorMatrix
+         id="feColorMatrix2289"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2291" />
+    </filter>
+    <clipPath
+       id="clipPath979-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect981-3"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2315"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2297"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2299"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2301"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2303"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2305" />
+      <feColorMatrix
+         id="feColorMatrix2307"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2309" />
+      <feColorMatrix
+         id="feColorMatrix2311"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2313" />
+    </filter>
+    <clipPath
+       id="clipPath975-7"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect977-5"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2337"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2319"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2321"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2323"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2325"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2327" />
+      <feColorMatrix
+         id="feColorMatrix2329"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2331" />
+      <feColorMatrix
+         id="feColorMatrix2333"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2335" />
+    </filter>
+    <clipPath
+       id="clipPath971-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect973-2"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2359"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2341"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2343"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2345"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2347"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2349" />
+      <feColorMatrix
+         id="feColorMatrix2351"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2353" />
+      <feColorMatrix
+         id="feColorMatrix2355"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2357" />
+    </filter>
+    <clipPath
+       id="clipPath967-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="3.2684093"
+         rx="3.2547424"
+         y="11.815257"
+         x="12.021505"
+         height="24.057615"
+         width="23.957018"
+         id="rect969-8"
+         style="opacity:1;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.24955331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <filter
+       id="filter2381"
+       inkscape:label="Brilliance"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur2363"
+         result="blur"
+         stdDeviation="4 4" />
+      <feColorMatrix
+         id="feColorMatrix2365"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         result="fbSourceGraphic"
+         id="feComposite2367"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+      <feColorMatrix
+         id="feColorMatrix2369"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.3 -0.1 -0.1 0 -2.77556e-17 -0.1 1.3 -0.1 0 -2.77556e-17 -0.1 -0.1 1.3 0 -2.77556e-17 0 0 0 1 0 "
+         id="feColorMatrix2371" />
+      <feColorMatrix
+         id="feColorMatrix2373"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
+         values="1.2 -0.1 -0.1 0 -0.1 -0.1 1.2 -0.1 0 -0.1 -0.1 -0.1 1.2 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2375" />
+      <feColorMatrix
+         id="feColorMatrix2377"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         values="1.1 -0.1 -0.1 0 -0.1 -0.1 1.1 -0.1 0 -0.1 -0.1 -0.1 1.1 0 -0.1 0 0 0 1 0 "
+         id="feColorMatrix2379" />
+    </filter>
+    <linearGradient
+       gradientTransform="matrix(0.5,0,0,0.5,-384,-168)"
+       gradientUnits="userSpaceOnUse"
+       y2="360"
+       x2="45"
+       y1="360"
+       x1="3"
+       id="linearGradient1074"
+       xlink:href="#linearGradient1072"
+       inkscape:collect="always" />
+    <filter
+       id="filter1371"
+       inkscape:label="Blur"
+       style="color-interpolation-filters:sRGB;"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feGaussianBlur
+         id="feGaussianBlur1365"
+         result="blur"
+         stdDeviation="10 2" />
+      <feColorMatrix
+         id="feColorMatrix1367"
+         result="colormatrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 " />
+      <feComposite
+         id="feComposite1369"
+         operator="in"
+         in2="SourceGraphic"
+         in="colormatrix" />
+    </filter>
+    <filter
+       height="1.216"
+       y="-0.108"
+       width="1.216"
+       x="-0.108"
+       id="filter1071"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1073"
+         stdDeviation="2.5199999"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.216"
+       y="-0.108"
+       width="1.216"
+       x="-0.108"
+       id="filter1090"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1092"
+         stdDeviation="0.7425"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(0,-360)"
+     id="g64">
+    <g
+       style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter1071)"
+       transform="matrix(0.37500001,0,0,0.37500001,4.3568335e-7,360)"
+       id="g871-8">
+      <circle
+         style="fill:#000000;fill-opacity:1"
+         cx="32"
+         cy="32"
+         r="27"
+         id="circle2-2" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1"
+         d="M 31.999998,32 59.075266,24.751346 A 28.028228,28.010254 0 0 0 39.245296,4.9781078 Z"
+         id="path6-6" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1"
+         d="M 31.999998,32 51.81996,51.80725 a 28.028228,28.010254 0 0 0 7.21927,-27.0479 z"
+         id="path8-4" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1"
+         d="M 31.999998,32 24.744692,59.055904 A 28.028228,28.010254 0 0 0 51.793934,51.781242 Z"
+         id="path10-7" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1"
+         d="M 31.999998,32 4.9247324,39.248654 A 28.028228,28.010254 0 0 0 24.754702,59.021892 Z"
+         id="path12-7" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1"
+         d="M 31.999998,32 12.180039,12.192749 A 28.028228,28.010254 0 0 0 4.9607686,39.24065 Z"
+         id="path14-0-3" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1"
+         d="M 31.999998,32 39.255306,4.9440954 A 28.028228,28.010254 0 0 0 12.206065,12.218759 Z"
+         id="path16-3" />
+    </g>
+    <g
+       style="filter:url(#filter1371)"
+       transform="matrix(0.37500001,0,0,0.37500001,0,360)"
+       id="g871">
+      <circle
+         style="fill:#f57c00"
+         cx="32"
+         cy="32"
+         r="27"
+         id="circle2" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#1e88e5"
+         d="M 31.999998,32 59.075266,24.751346 A 28.028228,28.010254 0 0 0 39.245296,4.9781078 Z"
+         id="path6" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#43a047"
+         d="M 31.999998,32 51.81996,51.80725 a 28.028228,28.010254 0 0 0 7.21927,-27.0479 z"
+         id="path8" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#fbc02d"
+         d="M 31.999998,32 24.744692,59.055904 A 28.028228,28.010254 0 0 0 51.793934,51.781242 Z"
+         id="path10" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f57c00"
+         d="M 31.999998,32 4.9247324,39.248654 A 28.028228,28.010254 0 0 0 24.754702,59.021892 Z"
+         id="path12" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e53935"
+         d="M 31.999998,32 12.180039,12.192749 A 28.028228,28.010254 0 0 0 4.9607686,39.24065 Z"
+         id="path14-0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#8e24aa"
+         d="M 31.999998,32 39.255306,4.9440954 A 28.028228,28.010254 0 0 0 12.206065,12.218759 Z"
+         id="path16" />
+    </g>
+    <circle
+       transform="rotate(-90)"
+       r="10.5"
+       cy="12"
+       cx="-372"
+       id="path1066"
+       style="opacity:0;fill:url(#linearGradient1074);fill-opacity:1;stroke:none;stroke-width:1.0750072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    <circle
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.159566;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1090)"
+       id="path1477-8"
+       cx="12"
+       cy="372.75"
+       r="8.25" />
+    <circle
+       r="8.25"
+       cy="372"
+       cx="12"
+       id="path1477"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15956588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="0"
+       cy="371.91251"
+       cx="12"
+       id="path910"
+       style="opacity:0.4;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient918);stroke-width:0.4449434;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <circle
+       r="0"
+       cy="371.91251"
+       cx="12"
+       id="path910-5"
+       style="opacity:0.4;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient968);stroke-width:0.4449434;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <circle
+       r="0"
+       cy="371.91251"
+       cx="12"
+       id="path910-0"
+       style="opacity:0.4;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#161616;stroke-width:0.4449434;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <g
+       style="fill:#000000;fill-opacity:1;opacity:0.5"
+       id="Layer_2"
+       transform="matrix(0.32069882,0,0,0.32069882,4.2956919,364.30323)">
+      <path
+         style="fill:#000000;fill-opacity:1"
+         id="path1530"
+         d="M 40.394,14.364 34.028,8 h -6.14 C 27.5,9.798 25.905,11.147 23.989,11.147 22.074,11.147 20.479,9.798 20.091,8 H 14.018 L 7.653,14.364 11.852,18.563 13,17.416 V 40 H 34.99 V 17.359 l 1.204,1.204 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
