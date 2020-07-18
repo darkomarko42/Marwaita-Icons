@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="preferences-system-windows.svg"
-   id="svg24"
-   version="1"
+   width="32"
    height="32"
-   width="32">
+   version="1"
+   id="svg24"
+   sodipodi:docname="preferences-system-windows.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -21,86 +21,71 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs28">
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter835"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur837"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
-  </defs>
+     id="defs28" />
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     inkscape:current-layer="svg24"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="12.961074"
-     inkscape:cx="8.0834823"
-     inkscape:zoom="17.383042"
-     showgrid="false"
-     id="namedview26"
-     inkscape:window-height="1003"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="8.6915209"
+     inkscape:cx="-6.8514636"
+     inkscape:cy="26.159471"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
   <rect
-     id="rect2"
-     ry="1.4"
-     rx="1.4"
-     y="2"
-     x="2"
-     height="28"
+     style="opacity:0.2;stroke-width:0.5"
      width="28"
-     style="opacity:0.5;stroke-width:0.5;filter:url(#filter835)" />
+     height="28"
+     x="2"
+     y="3"
+     rx="1.4"
+     ry="1.4"
+     id="rect2" />
   <rect
-     id="rect4"
-     ry="1.4"
-     rx="1.4"
-     y="2"
-     x="2"
-     height="28"
+     style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.5"
      width="28"
-     style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.5" />
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect4" />
   <path
-     id="rect4-3"
-     d="M 2,3.2447918 V 10 H 30 V 3.2447918 C 30,2.5553695 29.375209,2 28.599609,2 H 3.4003905 C 2.6247905,2 2,2.5553695 2,3.2447918 Z"
+     inkscape:connector-curvature="0"
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.47140452"
-     inkscape:connector-curvature="0" />
+     d="M 2,3.2447918 V 10 H 30 V 3.2447918 C 30,2.5553695 29.375209,2 28.599609,2 H 3.4003905 C 2.6247905,2 2,2.5553695 2,3.2447918 Z"
+     id="rect4-3" />
   <circle
-     r="2"
-     id="circle10"
-     cy="6.000001"
+     style="opacity:0.2;stroke-width:0.5"
      cx="5.5"
-     style="opacity:0.2;stroke-width:0.5" />
-  <circle
-     r="2"
-     id="circle14"
      cy="6.000001"
+     id="circle10"
+     r="2" />
+  <circle
+     style="opacity:0.2;stroke-width:0.5"
      cx="10.5"
-     style="opacity:0.2;stroke-width:0.5" />
-  <circle
-     r="2"
-     id="circle18"
      cy="6.000001"
+     id="circle14"
+     r="2" />
+  <circle
+     style="opacity:0.2;stroke-width:0.5"
      cx="15.5"
-     style="opacity:0.2;stroke-width:0.5" />
+     cy="6.000001"
+     id="circle18"
+     r="2" />
 </svg>

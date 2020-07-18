@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="preferences-system-search.svg"
-   id="svg12"
-   version="1"
+   width="32"
    height="32"
-   width="32">
+   version="1"
+   id="svg12"
+   sodipodi:docname="preferences-system-search.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -28,100 +28,80 @@
   <defs
      id="defs16">
     <linearGradient
-       id="linearGradient870"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient950">
       <stop
-         id="stop866"
+         style="stop-color:#398f39;stop-opacity:1;"
          offset="0"
-         style="stop-color:#17b5fd;stop-opacity:1" />
+         id="stop946" />
       <stop
-         id="stop868"
+         style="stop-color:#41af41;stop-opacity:1"
          offset="1"
-         style="stop-color:#0186c1;stop-opacity:1" />
+         id="stop948" />
     </linearGradient>
     <filter
-       height="1.21612"
-       y="-0.10805998"
-       width="1.2158802"
-       x="-0.10794009"
-       id="filter843"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter942"
+       x="-0.059966715"
+       width="1.1199334"
+       y="-0.060033322"
+       height="1.1200666">
       <feGaussianBlur
-         id="feGaussianBlur845"
-         stdDeviation="0.63050655"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter862"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur864"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.35028142"
+         id="feGaussianBlur944" />
     </filter>
     <linearGradient
-       gradientTransform="translate(0,-32)"
-       gradientUnits="userSpaceOnUse"
-       y2="16"
-       x2="30"
-       y1="16"
-       x1="2"
-       id="linearGradient872"
-       xlink:href="#linearGradient870"
-       inkscape:collect="always" />
+       inkscape:collect="always"
+       xlink:href="#linearGradient950"
+       id="linearGradient952"
+       x1="16.440678"
+       y1="29.898306"
+       x2="16.983051"
+       y2="2.1694915"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     inkscape:current-layer="svg12"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="16"
-     inkscape:cx="16"
-     inkscape:zoom="23.8125"
-     showgrid="false"
-     id="namedview14"
-     inkscape:window-height="1003"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="14.897405"
+     inkscape:cy="15.977191"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     opacity=".2"
+     d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.16884-0.01952-0.33264-0.02539-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"
+     id="path2" />
   <rect
-     style="fill:#000000;fill-opacity:1;filter:url(#filter862);opacity:0.5"
+     style="fill:url(#linearGradient952);fill-opacity:1"
      width="28"
      height="28"
      x="2"
      y="2"
      rx="14"
      ry="14"
-     id="rect4-4" />
-  <rect
-     transform="rotate(90)"
-     id="rect4"
-     ry="14"
-     rx="14"
-     y="-30"
-     x="2"
-     height="28"
-     width="28"
-     style="fill:url(#linearGradient872);fill-opacity:1" />
+     id="rect4" />
   <path
-     style="filter:url(#filter843);opacity:0.5"
-     id="path6"
+     opacity=".2"
      d="m17.521 9.9965c-3.0288 0-5.5312 2.4746-5.5312 5.5 0 1.1499 0.38921 2.2078 1 3.0938l-3.6875 3.6875a1.0055 1.0055 0 0 0 1.4063 1.4375l3.6875-3.6875c0.88729 0.61091 1.973 0.96875 3.125 0.96875 3.0289 0 5.5-2.4746 5.5-5.5s-2.4711-5.5-5.5-5.5zm0 2c1.9474 0 3.5 1.5548 3.5 3.5 0 1.9451-1.5526 3.5-3.5 3.5s-3.5-1.5549-3.5-3.5c0-1.9452 1.5526-3.5 3.5-3.5z"
-     opacity=".2" />
+     id="path6"
+     style="filter:url(#filter942);opacity:0.4" />
   <path
-     id="path10"
+     fill="#fff"
      d="m17.521 8.9945c-3.0288 0-5.5312 2.4746-5.5312 5.5 0 1.1499 0.38921 2.2078 1 3.0938l-3.6875 3.6875a1.0055 1.0055 0 0 0 1.4063 1.4375l3.6875-3.6875c0.88729 0.61091 1.973 0.96875 3.125 0.96875 3.0289 0 5.5-2.4746 5.5-5.5s-2.4711-5.5-5.5-5.5zm0 2c1.9474 0 3.5 1.5548 3.5 3.5 0 1.9451-1.5526 3.5-3.5 3.5s-3.5-1.5549-3.5-3.5c0-1.9452 1.5526-3.5 3.5-3.5z"
-     fill="#fff" />
+     id="path10" />
 </svg>

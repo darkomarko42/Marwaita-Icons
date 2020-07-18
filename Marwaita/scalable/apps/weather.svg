@@ -13,11 +13,7 @@
    version="1"
    id="svg34"
    sodipodi:docname="weather.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
-  <path
-     d="m 16,2.03 a 14,14 0 0 0 -14,14 14,14 0 0 0 2.27539,7.648437 4.6551723,4.6551723 0 0 0 -0.689453,2.4375 4.6551723,4.6551723 0 0 0 4.65625,4.654297 h 15.515625 a 4.6551723,4.6551723 0 0 0 4.65625,-4.654297 4.6551723,4.6551723 0 0 0 -0.689453,-2.4375 A 14,14 0 0 0 30,16.03 14,14 0 0 0 16,2.03 Z"
-     style="fill:#000000;fill-opacity:1;stroke-width:0.517241;filter:url(#filter888);opacity:0.5"
-     id="rect28-8" />
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata40">
     <rdf:RDF>
@@ -26,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,20 +49,7 @@
        x2="60"
        y2="32"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.49999997,0,0,0.49999997,2.005708e-6,5.0152832e-7)" />
-    <filter
-       height="1.2132183"
-       y="-0.10660917"
-       width="1.2188552"
-       x="-0.10942759"
-       id="filter888"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur890"
-         stdDeviation="1.2766553"
-         inkscape:collect="always" />
-    </filter>
+       gradientTransform="matrix(0.51724138,0,0,0.51724138,-1.586206,-1.0689656)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -77,53 +60,63 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
      id="namedview36"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="17.442571"
-     inkscape:cy="15.019955"
+     inkscape:zoom="3.6875"
+     inkscape:cx="4.4745763"
+     inkscape:cy="51.118644"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg34"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="svg34" />
   <circle
-     r="14"
-     style="opacity:1;fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:1.82141;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88422441;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path847-3"
+     cx="14.965517"
+     cy="16"
+     r="14.482759" />
+  <circle
+     style="opacity:1;fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:1.88422441;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="path847"
-     cx="16"
-     cy="16" />
+     cx="14.965517"
+     cy="15.482759"
+     r="14.482759" />
   <circle
-     style="opacity:0.2;stroke-width:0.517241"
-     cx="16.295345"
-     cy="22.613447"
+     style="opacity:0.2;stroke-width:0.51724136"
+     cx="19.398794"
+     cy="22.354828"
      r="5.911552"
      id="circle18" />
+  <path
+     style="opacity:0.2;stroke-width:0.51724136"
+     d="m 19.10345,15.482759 a 6.2068966,6.2068966 0 0 0 -6.206897,6.206896 6.2068966,6.2068966 0 0 0 0.0091,0.275795 A 4.6551724,4.6551724 0 0 0 11.34483,21.689655 4.6551724,4.6551724 0 0 0 6.6896567,26.344828 4.6551724,4.6551724 0 0 0 11.344829,31 H 26.86207 a 4.6551724,4.6551724 0 0 0 4.655173,-4.655172 4.6551724,4.6551724 0 0 0 -4.655173,-4.655173 4.6551724,4.6551724 0 0 0 -1.565867,0.275795 6.2068966,6.2068966 0 0 0 0.01414,-0.275795 6.2068966,6.2068966 0 0 0 -6.206897,-6.206896 z"
+     id="path20"
+     inkscape:connector-curvature="0" />
   <circle
-     style="fill:#ffffff;stroke-width:0.517241"
-     cx="8.2413788"
-     cy="26.086206"
+     style="fill:#ffffff;stroke-width:0.51724136"
+     cx="11.344828"
+     cy="25.827587"
      r="4.6551723"
      id="circle22" />
   <circle
-     style="fill:#ffffff;stroke-width:0.517241"
-     cx="16"
-     cy="21.431032"
+     style="fill:#ffffff;stroke-width:0.51724136"
+     cx="19.103449"
+     cy="21.172413"
      r="6.2068968"
      id="circle24" />
   <circle
-     style="fill:#ffffff;stroke-width:0.517241"
-     cx="23.758621"
-     cy="26.086206"
+     style="fill:#ffffff;stroke-width:0.51724136"
+     cx="26.86207"
+     cy="25.827587"
      r="4.6551723"
      id="circle26" />
   <rect
-     style="fill:#ffffff;stroke-width:0.517241"
+     style="fill:#ffffff;stroke-width:0.51724136"
      width="15.517241"
      height="6.2068968"
-     x="8.2413788"
-     y="24.534483"
+     x="11.344828"
+     y="24.275864"
      id="rect28" />
 </svg>

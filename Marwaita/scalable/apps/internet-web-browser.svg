@@ -14,7 +14,7 @@
    version="1.1"
    id="svg7"
    sodipodi:docname="internet-web-browser.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,20 +36,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
      id="namedview9"
      showgrid="false"
-     inkscape:zoom="25.46875"
-     inkscape:cx="15.018405"
-     inkscape:cy="16"
+     inkscape:zoom="4"
+     inkscape:cx="11.433919"
+     inkscape:cy="62.891118"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7"
      showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:document-rotation="0">
+     inkscape:guide-bbox="true">
     <sodipodi:guide
        position="-230.10932,158.77543"
        orientation="1,0"
@@ -59,6 +58,26 @@
        position="483.22958,554.56347"
        orientation="0,1"
        id="guide1671"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4,60"
+       orientation="0,1"
+       id="guide1012"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4,4"
+       orientation="0,1"
+       id="guide1014"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4,60"
+       orientation="1,0"
+       id="guide1016"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="60,4"
+       orientation="1,0"
+       id="guide1018"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -134,27 +153,14 @@
        y2="-11"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.49999997,0,0,0.49999997,0,-1.3463257e-6)" />
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter5087"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur5089"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
   </defs>
   <circle
-     transform="scale(-1)"
-     r="14"
-     cy="-16"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45118755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path1010-9"
      cx="-16"
-     id="path1010-2"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.451188;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter5087)" />
+     cy="-17"
+     r="14"
+     transform="scale(-1)" />
   <circle
      style="opacity:1;fill:url(#linearGradient1026);fill-opacity:1;stroke:none;stroke-width:0.45118752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="path1010"

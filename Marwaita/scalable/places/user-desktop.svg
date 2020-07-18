@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    id="svg21"
    sodipodi:docname="user-desktop.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata25">
     <rdf:RDF>
@@ -37,20 +37,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1021"
      id="namedview23"
      showgrid="false"
      inkscape:zoom="12.772116"
-     inkscape:cx="7.7102897"
-     inkscape:cy="20.641496"
+     inkscape:cx="-9.4740976"
+     inkscape:cy="21.748723"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="g7304"
      showguides="true"
      inkscape:guide-bbox="true"
-     units="px"
-     inkscape:document-rotation="0">
+     units="px">
     <sodipodi:guide
        position="120.23212,64.430611"
        orientation="0,1"
@@ -63,11 +62,11 @@
        inkscape:collect="always"
        id="linearGradient2562">
       <stop
-         style="stop-color:#ff3300;stop-opacity:1"
+         style="stop-color:#0099ff;stop-opacity:1;"
          offset="0"
          id="stop2558" />
       <stop
-         style="stop-color:#ffcc00;stop-opacity:1"
+         style="stop-color:#d800ff;stop-opacity:1"
          offset="1"
          id="stop2560" />
     </linearGradient>
@@ -113,27 +112,10 @@
        y2="-0.075884931"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.49999998,0,0,0.51944441,-3.024e-4,23.883638)" />
-    <filter
-       height="1.234"
-       y="-0.117"
-       width="1.2005714"
-       x="-0.10028571"
-       id="filter6717"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur6719"
-         stdDeviation="0.8775"
-         inkscape:collect="always" />
-    </filter>
   </defs>
   <g
      id="g7304"
      transform="translate(0,-24)">
-    <path
-       d="m 2.3803716,27 c -0.487977,0 -0.880371,0.490288 -0.8803718,1.098633 V 43.5 44.251465 C 1.4999998,44.666245 1.8923946,45 2.3803716,45 H 21.618164 c 0.0064,0 0.01117,-0.0057 0.01758,-0.0059 C 22.114738,44.985541 22.5,44.660766 22.5,44.251465 V 43.5 28.098633 C 22.5,27.490288 22.106141,27 21.618164,27 Z"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39093;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter6717)"
-       id="path1420-4" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3909266;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 22.5,43.5 h -21 v 0.751466 C 1.5,44.666245 1.8928334,45 2.3808105,45 H 21.61919 c 0.0064,0 0.01,-0.0057 0.01641,-0.0059 C 22.114596,44.9855 22.5,44.660745 22.5,44.251445 Z"

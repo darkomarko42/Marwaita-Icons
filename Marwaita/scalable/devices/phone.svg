@@ -12,7 +12,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="phone.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -25,21 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter867"
-       x="-0.09375"
-       width="1.1875"
-       y="-0.0625"
-       height="1.125">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.78125"
-         id="feGaussianBlur869" />
-    </filter>
-  </defs>
+     id="defs24" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -49,29 +35,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="9.0045629"
-     inkscape:cx="-12.88283"
-     inkscape:cy="23.656773"
+     inkscape:zoom="7.375"
+     inkscape:cx="1.6949153"
+     inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="svg20" />
   <rect
-     id="rect4-8"
-     ry="1.5"
-     rx="1.5"
-     y="1"
-     x="6"
-     height="30"
+     style="opacity:0.2"
      width="20"
-     style="fill:#030303;fill-opacity:1;opacity:0.5;filter:url(#filter867)" />
+     height="30"
+     x="6"
+     y="2"
+     rx="1.5"
+     ry="1.5"
+     id="rect2" />
   <rect
-     style="fill:#e5e5e5;fill-opacity:1"
+     style="fill:#f0f0f0;fill-opacity:1"
      width="20"
      height="30"
      x="6"
