@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   version="1"
-   id="svg20"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="phone.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   id="svg20"
+   version="1"
+   height="32"
+   width="32">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -25,78 +25,94 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24" />
+     id="defs24">
+    <filter
+       height="1.1232143"
+       y="-0.061607143"
+       width="1.1916667"
+       x="-0.095833333"
+       id="filter924"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur926"
+         stdDeviation="0.71875"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     id="namedview22"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="1.6949153"
-     inkscape:cy="16"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="26.195833"
+     inkscape:cx="6.016175"
+     inkscape:zoom="9.0045629"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <rect
-     style="opacity:0.2"
-     width="20"
-     height="30"
-     x="6"
-     y="2"
-     rx="1.5"
-     ry="1.5"
-     id="rect2" />
-  <rect
-     style="fill:#f0f0f0;fill-opacity:1"
-     width="20"
-     height="30"
-     x="6"
-     y="1"
-     rx="1.5"
-     ry="1.5"
-     id="rect4" />
-  <rect
-     style="fill:#333333"
+     style="opacity:0.5;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.916515;filter:url(#filter924)"
      width="18"
-     height="22"
+     height="28"
      x="7"
-     y="4"
-     id="rect6" />
-  <rect
-     style="fill:#333333"
-     width="4"
-     height="1"
-     x="14"
      y="2"
-     rx=".5"
-     ry=".492"
-     id="rect8" />
+     rx="1.35"
+     ry="1.4"
+     id="rect4-5" />
   <rect
-     style="fill:#4d4d4d"
-     width="4"
-     height="3"
-     x="14"
-     y="27"
-     rx="1"
+     id="rect4"
+     ry="1.4"
+     rx="1.35"
+     y="2"
+     x="7"
+     height="28"
+     width="18"
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.916515" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:0.730298"
+     width="16"
+     height="20"
+     x="8"
+     y="6"
+     rx="0.9464125"
+     ry="0.86037493"
+     id="rect4-3" />
+  <rect
+     id="rect4-3-6"
+     ry="0.23192918"
+     rx="0.23192918"
+     y="3"
+     x="13"
+     height="1"
+     width="6"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.100001" />
+  <rect
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.0408252"
+     width="1"
+     height="1"
+     x="11"
+     y="3"
+     rx="0.5"
+     ry="0.5"
+     id="rect4-3-6-7" />
+  <rect
+     id="rect4-3-6-7-3"
      ry="1"
-     id="rect10" />
-  <path
-     style="fill:#ffffff;opacity:0.2"
-     d="M 7.5 1 C 6.669 1 6 1.669 6 2.5 L 6 3.5 C 6 2.669 6.669 2 7.5 2 L 24.5 2 C 25.331 2 26 2.669 26 3.5 L 26 2.5 C 26 1.669 25.331 1 24.5 1 L 7.5 1 z"
-     id="path12" />
-  <circle
-     style="fill:#333333"
-     cx="19.5"
-     cy="2.5"
-     r=".5"
-     id="circle18" />
+     rx="1"
+     y="27"
+     x="15"
+     height="2"
+     width="2"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.0816503" />
 </svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1487"
+   sodipodi:docname="camera-switch-symbolic.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1491" />
+  <sodipodi:namedview
+     id="namedview1489"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="24px"
+     inkscape:zoom="51.4375"
+     inkscape:cx="-5.0157959"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1487" />
+  <path
+     style="fill:#444444"
+     d="M 11.5,10 C 10.669,10 10,10.669 10,11.5 v 4 c 0,0.831 0.669,1.5 1.5,1.5 h 4 C 16.331,17 17,16.331 17,15.5 V 14.794922 L 19.353516,15.9375 C 19.64072,16.114879 20.000209,15.89156 20,15.537109 V 11.460938 C 20.000287,11.201544 19.799311,10.992737 19.556641,11 c -0.07157,0.0022 -0.141175,0.02414 -0.203125,0.0625 L 17,12.205078 V 11.5 C 17,10.669 16.331,10 15.5,10 Z"
+     id="path1483" />
+  <path
+     style="opacity:0.3;fill:#444444"
+     d="M 8.5,6 C 7.6690003,6 7,6.669 7,7.5 V 8.2050781 L 4.6464844,7.0625 C 4.5845344,7.024137 4.5149294,7.00222 4.4433594,7 4.2006894,6.9927367 3.999713,7.2015443 4,7.4609375 v 4.0761715 c -2.09e-4,0.354451 0.3592804,0.57777 0.6464844,0.400391 L 7,10.794922 V 11.5 C 7,12.331 7.6690003,13 8.5,13 H 9 V 11.5 C 9,10.132297 10.132297,9 11.5,9 H 14 V 7.5 C 14,6.669 13.331,6 12.5,6 Z"
+     id="path1485" />
+</svg>

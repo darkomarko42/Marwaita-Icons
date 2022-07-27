@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2130"
+   sodipodi:docname="view-list-compact-symbolic.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2134" />
+  <sodipodi:namedview
+     id="namedview2132"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="51.4375"
+     inkscape:cx="-1.4969623"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2130" />
+  <path
+     style="fill:#444444"
+     d="m 12,9 h 4 v 1 h -4 z"
+     id="path2122" />
+  <path
+     style="fill:#444444"
+     d="m 8.25,8 h 2.5 C 10.8885,8 11,8.1115 11,8.25 v 2.5 C 11,10.8885 10.8885,11 10.75,11 H 8.25 C 8.1115,11 8,10.8885 8,10.75 V 8.25 C 8,8.1115 8.1115,8 8.25,8 Z"
+     id="path2124" />
+  <path
+     style="fill:#444444"
+     d="m 12,14 h 4 v 1 h -4 z"
+     id="path2126" />
+  <path
+     style="fill:#444444"
+     d="m 8.25,13 h 2.5 c 0.1385,0 0.25,0.1115 0.25,0.25 v 2.5 C 11,15.889 10.8885,16 10.75,16 H 8.25 C 8.1115,16 8,15.889 8,15.75 v -2.5 C 8,13.1115 8.1115,13 8.25,13 Z"
+     id="path2128" />
+</svg>

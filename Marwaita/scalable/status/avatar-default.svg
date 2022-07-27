@@ -13,7 +13,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="avatar-default.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -49,6 +49,19 @@
        y2="16"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-32)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6650"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur6652" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -60,19 +73,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="25.288136"
-     inkscape:cy="8.3389825"
+     inkscape:zoom="14.75"
+     inkscape:cx="9.0128697"
+     inkscape:cy="14.883192"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20"
+     inkscape:document-rotation="0" />
   <circle
-     style="opacity:0.2;fill:#000000;fill-opacity:1"
-     cx="-17"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter6650)"
+     cx="-16"
      cy="16"
      r="14"
      id="circle4-9"
@@ -85,24 +99,14 @@
      id="circle4"
      transform="rotate(-90)" />
   <g
-     style="opacity:0.2"
-     transform="translate(0,1)"
-     id="g10">
-    <path
-       d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"
-       id="path6" />
-    <path
-       d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"
-       id="path8" />
-  </g>
-  <g
+     style="fill-opacity:1;fill:#ffffff"
      id="g16">
     <path
-       style="fill:#ffffff"
+       style="fill:#ffffff;fill-opacity:1"
        d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"
        id="path12" />
     <path
-       style="fill:#ffffff"
+       style="fill:#ffffff;fill-opacity:1"
        d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"
        id="path14" />
   </g>

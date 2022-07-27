@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   version="1"
-   id="svg24"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="preferences-system-windows.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   id="svg24"
+   version="1"
+   height="32"
+   width="32">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -26,66 +26,76 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs28" />
+     id="defs28">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1753"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1755" />
+    </filter>
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     id="namedview26"
-     showgrid="false"
-     inkscape:zoom="8.6915209"
-     inkscape:cx="-6.8514636"
-     inkscape:cy="26.159471"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="18.99989"
+     inkscape:cx="4.3329146"
+     inkscape:zoom="12.291667"
+     showgrid="false"
+     id="namedview26"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     showguides="false" />
   <rect
-     style="opacity:0.2;stroke-width:0.5"
-     width="28"
-     height="28"
-     x="2"
-     y="3"
-     rx="1.4"
-     ry="1.4"
-     id="rect2" />
-  <rect
-     style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.5"
-     width="28"
-     height="28"
-     x="2"
+     id="rect4"
+     ry="1.735382"
+     rx="1.735382"
      y="2"
-     rx="1.4"
-     ry="1.4"
-     id="rect4" />
+     x="2"
+     height="28"
+     width="28"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.5;filter:url(#filter1753);opacity:0.5" />
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.47140452"
-     d="M 2,3.2447918 V 10 H 30 V 3.2447918 C 30,2.5553695 29.375209,2 28.599609,2 H 3.4003905 C 2.6247905,2 2,2.5553695 2,3.2447918 Z"
-     id="rect4-3" />
+     id="rect4-6-4"
+     style="fill:#eeeeee;fill-opacity:1;stroke-width:0.5"
+     d="M 3.736328,2 C 2.774926,2 2,2.7729741 2,3.7343751 V 6.0000001 28.263672 C 2,29.225074 2.774926,30 3.736328,30 H 28.265625 C 29.227026,30 30,29.225074 30,28.263672 V 6.0000001 3.7343751 C 30,2.7729741 29.227026,2 28.265625,2 Z" />
+  <path
+     id="path1714"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.5;opacity:0.2"
+     d="M 2,6 H 30 V 3.734375 C 30,2.772974 29.227026,2 28.265625,2 H 3.736328 C 2.774926,2 2,2.772974 2,3.734375 Z" />
   <circle
-     style="opacity:0.2;stroke-width:0.5"
-     cx="5.5"
-     cy="6.000001"
+     r="1"
      id="circle10"
-     r="2" />
+     cy="4"
+     cx="4"
+     style="opacity:0.3;fill:#fafafa;stroke-width:0.25" />
   <circle
-     style="opacity:0.2;stroke-width:0.5"
-     cx="10.5"
-     cy="6.000001"
+     r="1"
      id="circle14"
-     r="2" />
+     cy="4"
+     cx="6.5"
+     style="opacity:0.3;fill:#fafafa;stroke-width:0.25" />
   <circle
-     style="opacity:0.2;stroke-width:0.5"
-     cx="15.5"
-     cy="6.000001"
+     r="1"
      id="circle18"
-     r="2" />
+     cy="4"
+     cx="9"
+     style="opacity:0.3;fill:#fafafa;stroke-width:0.25" />
 </svg>

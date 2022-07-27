@@ -5,15 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   version="1"
-   id="svg10"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="bluetooth.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   id="svg10"
+   version="1"
+   height="32"
+   width="32">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -27,67 +26,61 @@
   </metadata>
   <defs
      id="defs14">
-    <linearGradient
+    <filter
        inkscape:collect="always"
-       id="linearGradient827">
-      <stop
-         style="stop-color:#324090;stop-opacity:1;"
-         offset="0"
-         id="stop823" />
-      <stop
-         style="stop-color:#0099ff;stop-opacity:1"
-         offset="1"
-         id="stop825" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient827"
-       id="linearGradient829"
-       x1="-30"
-       y1="-16"
-       x2="-2"
-       y2="-16"
-       gradientUnits="userSpaceOnUse" />
+       style="color-interpolation-filters:sRGB"
+       id="filter16651"
+       x="-0.09"
+       width="1.18"
+       y="-0.064285714"
+       height="1.1285714">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.75"
+         id="feGaussianBlur16653" />
+    </filter>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="2.779661"
-     inkscape:cy="14.711864"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg10"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
-  <rect
-     fill="#324090"
-     width="28"
-     height="20"
-     x="-30"
-     y="-26"
-     rx="11"
-     ry="10"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="14.208417"
+     inkscape:cx="9.4008869"
+     inkscape:zoom="20.85965"
+     showgrid="false"
+     id="namedview12"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     id="rect2-7"
+     style="opacity:0.5;mix-blend-mode:normal;fill:#000000;fill-opacity:0.995987;stroke:none;filter:url(#filter16651)"
      transform="matrix(0,-1,-1,0,0,0)"
+     d="m -19,-26 h 6 c 6.094,0 11,4.46 11,10 0,5.54 -4.906,10 -11,10 h -6 c -6.094,0 -11,-4.46 -11,-10 0,-5.54 4.906,-10 11,-10 z" />
+  <rect
+     style="fill-opacity:1;fill:#0084f6"
      id="rect2"
-     style="fill-opacity:1;fill:url(#linearGradient829)" />
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="10"
+     rx="11"
+     y="-26"
+     x="-30"
+     height="20"
+     width="28"
+     fill="#324090" />
   <path
-     fill="none"
-     stroke="#fff"
-     stroke-linecap="square"
+     id="path6"
      d="m11 11.5 9 9-4.5 4.25v-17.5l4.5 4.25-9 8"
-     id="path6" />
-  <path
-     opacity=".2"
-     d="m6 19v1c0 6.094 4.46 11 10 11s10-4.906 10-11v-1c0 6.094-4.46 11-10 11s-10-4.906-10-11z"
-     id="path8" />
+     stroke-linecap="square"
+     stroke="#fff"
+     fill="none" />
 </svg>

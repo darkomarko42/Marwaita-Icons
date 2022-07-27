@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="wine.svg"
    id="svg6314"
    version="1"
@@ -21,24 +21,38 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6318" />
+     id="defs6318">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter40240"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur40242" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:current-layer="svg6314"
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="8.756103"
-     inkscape:cx="3.047428"
+     inkscape:cx="-2.3457595"
      inkscape:zoom="13.906433"
      showgrid="false"
      id="namedview6316"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -53,11 +67,11 @@
      rx="2.4161479"
      transform="rotate(-90)"
      y="2"
-     x="-31"
+     x="-30"
      height="28"
      width="28"
      id="rect818-6"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51121062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.511211;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter40240)" />
   <rect
      ry="2.4161479"
      rx="2.4161479"
@@ -67,7 +81,7 @@
      height="28"
      width="28"
      id="rect818"
-     style="opacity:1;fill:#bb0043;fill-opacity:1;stroke:none;stroke-width:0.51121062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#db2f72;fill-opacity:1;stroke:none;stroke-width:0.51121062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
      style="fill:#ffffff;fill-opacity:1"
      transform="matrix(0.03333333,0,0,0.03333333,8.0000008,8.0000008)"

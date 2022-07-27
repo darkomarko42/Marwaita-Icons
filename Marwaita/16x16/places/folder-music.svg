@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
    sodipodi:docname="folder-music.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="16"
+   height="16"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -20,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,17 +34,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="-47.118644"
-     inkscape:cy="10.847457"
+     inkscape:cx="19.254237"
+     inkscape:cy="16.644068"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs3051">
     <style
@@ -55,9 +57,9 @@
       </style>
   </defs>
   <path
-     style="color:#4d4d4d;fill:#444444;fill-opacity:1;stroke:none;stroke-width:1"
+     style="color:#4d4d4d;fill:#ff8833;fill-opacity:1;stroke:none;stroke-width:1"
      class="ColorScheme-Text"
-     d="M 13.374358,-1.9548831e-7 5.996816,1.9057716 C 5.4425472,2.0541528 4.9953683,2.6440744 4.9953683,3.217356 v 9.089677 C 4.4333243,12.01301 3.7114371,11.894171 2.9630802,12.088436 1.6126596,12.438985 0.76728496,13.571581 1.0567605,14.618204 1.3462367,15.664827 2.6770937,16.248549 4.0275121,15.897992 5.1048684,15.618328 5.8468826,14.828631 5.965324,13.994208 L 5.996816,5.4033299 13.000652,3.5293541 v 6.7785069 c -0.56205,-0.294024 -1.283935,-0.4128656 -2.032288,-0.218598 -1.350421,0.350551 -2.1978945,1.483138 -1.90842,2.529768 0.289475,1.046622 1.620336,1.630346 2.970753,1.279789 1.077358,-0.279667 1.819371,-1.069358 1.937811,-1.903785 l 0.0315,-11.18225034 c 0,-0.42996035 -0.266314,-0.75230534 -0.625642,-0.81278485548831 z"
+     d="M 13.374347,1.8875294e-7 5.9968117,1.905772 C 5.4425432,2.0541532 4.9953646,2.6440748 4.9953646,3.2173564 V 12.307033 C 4.4333215,12.01301 3.7114349,11.89417 2.9630786,12.088436 1.6126589,12.438985 0.76728513,13.571581 1.0567604,14.618203 1.3462363,15.664826 2.6770921,16.248549 4.0275096,15.897991 5.1048653,15.618327 5.8468788,14.82863 5.9653195,13.994208 L 5.9968117,5.4033299 13.000641,3.5293545 v 6.7785065 c -0.56205,-0.294024 -1.283933,-0.4128658 -2.032286,-0.218599 -1.350419,0.350552 -2.1978916,1.483139 -1.9084167,2.529768 0.289475,1.046623 1.6203337,1.630347 2.9707497,1.279789 1.077357,-0.279666 1.819369,-1.069357 1.937808,-1.903785 L 14,0.81278509 C 14,0.38282469 13.733687,0.06047969 13.374359,1.8875294e-7 Z"
      id="path4"
      inkscape:connector-curvature="0" />
 </svg>
