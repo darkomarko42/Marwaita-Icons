@@ -5,7 +5,7 @@
    width="32"
    version="1.0"
    sodipodi:docname="simplescreenrecorder.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,18 +24,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:window-height="956"
      id="namedview45"
      showgrid="false"
-     inkscape:zoom="10.82698"
-     inkscape:cx="17.548753"
-     inkscape:cy="13.161565"
+     inkscape:zoom="21.65396"
+     inkscape:cx="17.571844"
+     inkscape:cy="16.809858"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4569"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata46">
     <rdf:RDF>
@@ -49,15 +51,32 @@
   </metadata>
   <defs
      id="defs4571">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1321"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,1,0,1,0,0.15,0,1 @ F,1,0,1,0,0.15,0,1 @ F,1,0,1,0,0.15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="15"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient932">
       <stop
-         style="stop-color:#e53434;stop-opacity:1;"
+         style="stop-color:#dd0000;stop-opacity:1;"
          offset="0"
          id="stop928" />
       <stop
-         style="stop-color:#ff7777;stop-opacity:1"
+         style="stop-color:#ff3b3b;stop-opacity:1;"
          offset="1"
          id="stop930" />
     </linearGradient>
@@ -299,10 +318,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient932"
        id="linearGradient934"
-       x1="28"
-       y1="22"
-       x2="4"
-       y2="6"
+       x1="29.330887"
+       y1="27.645676"
+       x2="7.7695465"
+       y2="9.3840017"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
@@ -328,10 +347,19 @@
      id="rect1789"
      d="m 12.11778,24 c 0,0 0.09353,2.064325 -0.353073,2.545487 -0.4466,0.481166 -1.335253,0.787862 -1.335253,0.787862 C 9.8592092,27.383899 9.8544922,28 10.429454,28 h 11.141047 c 0.574963,0 0.570365,-0.616748 0,-0.666651 0,0 -0.888614,-0.306698 -1.335207,-0.787862 C 19.788701,26.064327 19.882221,24 19.882221,24 h -7.760455 z"
      inkscape:connector-curvature="0" />
-  <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.539475"
-     id="path884"
-     cx="16"
-     cy="14"
-     r="4" />
+  <rect
+     style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.416488"
+     id="rect1015-2-5-3"
+     width="10"
+     height="10"
+     x="8"
+     y="9"
+     ry="1.7704978" />
+  <path
+     id="path1270"
+     style="opacity:0.5;fill:#ffffff;stroke:none;stroke-width:1.09545"
+     sodipodi:type="inkscape:offset"
+     inkscape:radius="0"
+     inkscape:original="M 23.683594 9.6738281 A 0.54871879 0.54871879 0 0 0 23.099609 9.75 L 18.900391 13.25 A 0.97628123 0.97628123 0 0 0 18.900391 14.75 L 22.847656 18.039062 A 0.70256243 0.70256243 0 0 0 24 17.5 L 24 10.171875 A 0.54871879 0.54871879 0 0 0 23.683594 9.6738281 z "
+     d="M 23.683594,9.6738281 A 0.54871879,0.54871879 0 0 0 23.099609,9.75 l -4.199218,3.5 a 0.97628123,0.97628123 0 0 0 0,1.5 l 3.947265,3.289062 A 0.70256243,0.70256243 0 0 0 24,17.5 V 10.171875 A 0.54871879,0.54871879 0 0 0 23.683594,9.6738281 Z" />
 </svg>
