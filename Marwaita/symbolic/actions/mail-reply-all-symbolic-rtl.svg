@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#444444" d="M 7,1.5 V 4 H 5 C 2,4 0,6.13 0,9.25 0,12.5 4,14 4,14 4,14 2.13,11.35 2.56,10 2.93,8.87 4.14,8 5.5,8 H 7 V 10.5 L 13.5,6 Z"/>
- <path style="fill:#444444" d="M 9.5,1.5 16,6 9.5,10.5 V 9.4609 L 14.5,6 9.5,2.5391 Z"/>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="gray">
+  <path d="M5 4v4.5c0 1.25.393 1.759 1.023 2.09.631.33 1.594.41 2.606.41h4.541v1H4.629c-1.052 0-2.153-.044-3.07-.525C.64 10.993 0 10 0 8.5V4h1v4.5c0 1.25.393 1.759 1.023 2.09.631.33 1.594.41 2.606.41h.283C4.354 10.447 4 9.614 4 8.5V4z" font-family="sans-serif" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:none;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none" white-space="normal"/>
+  <path d="M11 9l.002 5c.76-.348 1.535-.737 2.323-1.166.78-.431 1.534-.876 2.259-1.334-.725-.449-1.478-.889-2.26-1.32A43.084 43.084 0 0 0 11.002 9z" overflow="visible"/>
+ </g>
 </svg>

@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#444444" d="M 7,0 V 2 H 6 C 5.45,2 5,2.45 5,3 V 7 L 5.54,7.54 2.13,13.5 2,16 3.87,14.5 4.59,13.23 C 5.66,13.73 6.82,14 8,14 9.18,14 10.34,13.73 11.41,13.23 L 12.13,14.5 14,16 13.87,13.5 13.1,12.16 C 14.94,10.64 16,8.38 16,6 H 14 C 14,7.66 13.31,9.25 12.09,10.38 L 10.46,7.54 11,7 V 3 C 11,2.45 10.55,2 10,2 H 9 V 0 Z M 8,4 C 8.55,4 9,4.45 9,5 9,5.55 8.55,6 8,6 7.45,6 7,5.55 7,5 7,4.45 7.45,4 8,4 Z M 7.01,9 C 7.64,9.31 8.27,9.54 8.99,9 L 10.41,11.49 C 9.65,11.82 8.83,12 8,12 7.17,12 6.35,11.82 5.59,11.49 Z"/>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="gray" font-weight="400">
+  <path d="M11 16l-.479-.922a19.554 19.554 0 0 1-1.126-2.666 14.225 14.225 0 0 1-.383-1.271L9 11.084V1s0-1 1-1h2s1 0 1 1v10.084l-.012.057c-.028.122-.136.547-.383 1.271a19.588 19.588 0 0 1-1.126 2.666zm-.209-3.043h.416c.14-.315.294-.65.377-.893.225-.66.417-1.07.416-1.064h-2c-.002-.009.189.403.414 1.064.083.244.238.578.377.893zM10 3h2V1h-2z" font-family="Ubuntu" font-size="15" letter-spacing="0" text-anchor="middle" word-spacing="0"/>
+  <path d="M3 0v15h5V0zm1 1h3v1H6v1h1v1H6v1h1v1H6v1h1v1H6v1h1v1H6v1h1v1H6v1h1v1H4z" font-family="sans-serif" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none" white-space="normal"/>
+ </g>
 </svg>

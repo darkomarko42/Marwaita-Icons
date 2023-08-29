@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="accessories-notes.svg"
    id="svg32"
    viewBox="0 0 24 24"
    version="1.1"
    height="32"
-   width="32">
+   width="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -33,12 +33,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="23.951395"
-     inkscape:cx="-1.2575002"
+     inkscape:cy="23.909047"
+     inkscape:cx="-1.281631"
      inkscape:zoom="11.313709"
      showgrid="false"
      id="namedview34"
-     inkscape:window-height="1000"
+     inkscape:window-height="988"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +47,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs6">
     <linearGradient
@@ -129,7 +130,7 @@
      height="21"
      width="21"
      id="rect1163"
-     style="opacity:1;fill:#fede79;fill-opacity:1;stroke:none;stroke-width:0.883387" />
+     style="opacity:1;fill:#fbe6b6;fill-opacity:1;stroke:none;stroke-width:0.883387" />
   <path
      id="rect841-5-1"
      style="opacity:0.7;fill:url(#linearGradient1211);fill-opacity:1;stroke-width:1.2651"

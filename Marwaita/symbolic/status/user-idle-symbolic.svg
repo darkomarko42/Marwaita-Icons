@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="opacity:.35;fill:#444444" d="M 8,2 C 9.66,2 11,3.34 11,5 11,6.65 9.66,8 8,8 6.34,8 5,6.65 5,5 5,3.34 6.34,2 8,2 Z M 8,10 C 14,9.99 14,14 14,14 V 15 H 2 V 14 C 2,14 2,10 8,10 Z"/>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g transform="translate(-1253 307)" fill="#808080" label="status">
+  <path d="m1255-306c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h1.5215l2.4785 3 2-3h6c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-6.434l-1.566 2.4-1.966-2.4h-2.034c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1zm-0.6992 11c0.1519 0.0168 0.3208 0.0211 0.5234 0z" enable-background="new" opacity=".5"/>
+  <rect x="1256" y="-303" width="10" height="1" rx=".25" ry=".25" opacity=".5"/>
+  <rect x="1256" y="-301" width="7" height="1" rx=".25" ry=".25" opacity=".5"/>
+ </g>
 </svg>
