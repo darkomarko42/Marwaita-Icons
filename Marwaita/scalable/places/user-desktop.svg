@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="user-desktop.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="cs-desktop.svg"
    id="svg21"
    viewBox="0 0 24 24"
    version="1.1"
@@ -23,7 +23,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,12 +35,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="16.221454"
-     inkscape:cx="42.906575"
-     inkscape:zoom="9.0312498"
+     inkscape:cy="16.226755"
+     inkscape:cx="16.950989"
+     inkscape:zoom="25.544232"
      showgrid="false"
      id="namedview23"
-     inkscape:window-height="988"
+     inkscape:window-height="992"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -51,7 +50,9 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        inkscape:locked="false"
        id="guide922"

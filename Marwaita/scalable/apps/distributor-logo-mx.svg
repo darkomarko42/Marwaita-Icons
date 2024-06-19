@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="distributor-logo-mx.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.34375"
+     inkscape:cx="15.969407"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="opacity:0.5;fill:#000000;filter:url(#filter4)"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect1" />
+  <rect
+     style="fill:#000712;fill-opacity:1"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect2" />
+  <path
+     style="fill:#ffffff"
+     d="M 11,7 9,9 15.531,17.164 14.305,18.635 12,16 4,26 H 28 L 23,20 22.111,20.889 18.266,16.082 25,8 24,7 17.367,14.959 Z M 16.428,18.285 20.111,22.889 19,24 15.244,19.707 Z"
+     id="path3" />
+</svg>

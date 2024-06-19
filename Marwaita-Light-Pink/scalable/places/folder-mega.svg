@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="folder-mega.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -9,7 +9,6 @@
    width="32"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,27 +16,6 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient7801">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop7797" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1"
-         id="stop7799" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7801"
-       id="linearGradient7803"
-       x1="4.2788486"
-       y1="1.7908064"
-       x2="2.9387295"
-       y2="31.56805"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -56,7 +34,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="988"
+     inkscape:window-height="992"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -74,23 +52,29 @@
      id="base"
      inkscape:pagecheckerboard="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="6.0854167,5.8208338"
        orientation="0,-1"
-       id="guide13393" />
+       id="guide13393"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="6.0854167,5.8208338"
        orientation="1,0"
-       id="guide13395" />
+       id="guide13395"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2.3812498,5.8208338"
        orientation="1,0"
-       id="guide13397" />
+       id="guide13397"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="6.0854167,2.1166673"
        orientation="0,-1"
-       id="guide13399" />
+       id="guide13399"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -116,7 +100,7 @@
        style="fill:#e572ff;fill-opacity:1;stroke-width:0.293603"
        d="m 0.86506348,1.3229167 c -0.1860552,0 -0.3358967,0.1498416 -0.3358967,0.3358968 v 0.7818644 3.8380087 0.2764689 c 0,0.3259574 0.2626371,0.5885945 0.58859442,0.5885945 h 6.2311442 c 0.3259574,0 0.5885945,-0.2626371 0.5885945,-0.5885945 V 2.4406779 c 0,-0.3259574 -0.2626371,-0.5885945 -0.5885945,-0.5885945 H 3.1749999 V 1.6588135 c 0,-0.1860552 -0.1498414,-0.3358968 -0.3358967,-0.3358968 z" />
     <rect
-       style="opacity:0.3;fill:url(#linearGradient7803);fill-opacity:1;stroke-width:0.293602"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.293602"
        id="rect849-3-5"
        width="7.4083333"
        height="5.2916665"
