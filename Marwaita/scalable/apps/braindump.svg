@@ -5,7 +5,7 @@
    version="1"
    id="svg18"
    sodipodi:docname="braindump.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -17,11 +17,11 @@
        inkscape:collect="always"
        id="linearGradient1259">
       <stop
-         style="stop-color:#f5c77f;stop-opacity:1"
+         style="stop-color:#f5e27f;stop-opacity:1;"
          offset="0"
          id="stop1255" />
       <stop
-         style="stop-color:#f5ab35;stop-opacity:0.99820691"
+         style="stop-color:#f5a435;stop-opacity:0.99820691;"
          offset="1"
          id="stop1257" />
     </linearGradient>
@@ -42,8 +42,8 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1259"
        id="linearGradient1261"
-       x1="13.416684"
-       y1="4.9010258"
+       x1="14.472425"
+       y1="3.0616357"
        x2="20.303947"
        y2="21.813482"
        gradientUnits="userSpaceOnUse" />
@@ -58,14 +58,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="27.09375"
-     inkscape:cx="15.83391"
-     inkscape:cy="16.018454"
+     inkscape:cx="15.852364"
+     inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="988"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="svg18"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <path
      id="path2-3"
      d="m 15.5001,2.9999998 c -4.693999,0 -8.4999998,3.8138785 -8.4999998,8.5175782 -0.0174,2.551 2.235631,4.780031 3.2695308,7.207031 C 10.730632,19.806609 11.578225,22 11.578225,22 l 1.306641,5.701171 C 13.036667,28.405392 13.469,29 14.19346,29 h 2.615234 c 0.724001,0 1.145641,-0.596828 1.306641,-1.298829 L 19.423928,22 c 0,0 0.845721,-2.193791 1.306641,-3.275391 1.034,-2.427 3.224531,-4.684031 3.269531,-7.207031 0,-4.7036997 -3.806,-8.5175782 -8.5,-8.5175782 z"

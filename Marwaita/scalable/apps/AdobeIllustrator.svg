@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="AdobeIllustrator.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.21875"
+     inkscape:cx="15.979355"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="opacity:0.5;fill:#000000;filter:url(#filter6)"
+     rx="1.4"
+     ry="1.4"
+     height="28"
+     width="28"
+     y="2.0000005"
+     x="2.0000005"
+     id="rect1-7" />
+  <rect
+     style="fill:#ce6f23"
+     rx="1.4"
+     ry="1.4"
+     height="28"
+     width="28"
+     y="1.999608"
+     x="2.0002301"
+     id="rect1" />
+  <path
+     style="fill:#fed642"
+     d="m11 9l-3 14h3l0.599609-4h1.800782l0.599609 4h3l-3-14h-3zm10.5 0a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -1.5 -1.5zm-9 4l0.599609 4h-1.199218l0.599609-4zm7.5 0v10h3v-10h-3z"
+     id="path4" />
+</svg>

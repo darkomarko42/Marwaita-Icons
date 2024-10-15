@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="AdobeBridge.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.21875"
+     inkscape:cx="15.979355"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <rect
+     style="opacity:0.5;fill:#000000;filter:url(#filter6)"
+     rx="1.4"
+     ry="1.4"
+     height="28"
+     width="28"
+     y="2.0000005"
+     x="2.0000005"
+     id="rect1-7" />
+  <rect
+     x="2.0002301"
+     y="1.999608"
+     width="28"
+     height="28"
+     rx="1.4"
+     ry="1.4"
+     style="fill:#a45024"
+     id="rect1" />
+  <path
+     d="m18 12v11h3v-6c2-3 4-2 4-2v-3s-3 0-4 2v-2z"
+     style="fill:#fec32b"
+     id="path4" />
+  <path
+     d="m7 9v6 2 6h3 1s5 0 5-4c0-1.717846-0.922324-2.696676-1.974609-3.255859 0.560159-0.591994 0.974609-1.45948 0.974609-2.744141 0-4-4-4-4-4h-1-3zm3 2h1s1 0 1 2-1 2-1 2h-1v-4zm0 6h1s2 0 2 2-2 2-2 2h-1v-4z"
+     style="fill:#fec32b"
+     id="path6" />
+</svg>

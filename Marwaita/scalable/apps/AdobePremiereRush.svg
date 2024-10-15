@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="AdobePremiereRush.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.21875"
+     inkscape:cx="15.979355"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <rect
+     style="opacity:0.5;fill:#000000;filter:url(#filter6)"
+     rx="1.4"
+     ry="1.4"
+     height="28"
+     width="28"
+     y="2.0000005"
+     x="2.0000005"
+     id="rect1-7" />
+  <rect
+     x="2.0002301"
+     y="1.999608"
+     width="28"
+     height="28"
+     rx="1.4"
+     ry="1.4"
+     style="fill:#511b8a"
+     id="rect1" />
+  <path
+     d="m10.830078 9c-1.7295999 0-3.830078 0.0566406-3.830078 0.0566406v13.943359h3v-3.986328s0.298948-0.006137 0.830078-0.029297c0.052029 3.1e-4 0.10586-0.005378 0.158203-0.005859l2.011719 4.021484h3l-2.287109-4.572266c1.302039-0.635458 2.287109-1.925672 2.287109-4.427734 0-4.2-2.769922-5-5.169922-5zm-0.830078 2s0.403469-0.022 0.980469 0c1.446 0.055 2.019531 1.606391 2.019531 2.900391 0 1.431701-0.730362 3.059957-2.216797 3.099609h-0.330078c-0.126488 0.002525-0.270253 0.012653-0.453125-0.005859v-5.994141z"
+     style="fill:#c88eff"
+     id="path2" />
+  <path
+     d="m18 13v8s0 2 3 2 4-1 4-1v-9h-2v8h-2s-1 0-1-1v-7z"
+     style="fill:#c88eff"
+     id="path6" />
+</svg>

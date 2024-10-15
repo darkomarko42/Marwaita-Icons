@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="tiktok.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="23.40625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <circle
+     style="opacity:0.5;fill:#000000;filter:url(#filter4)"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle1" />
+  <circle
+     style="fill:#262626;fill-opacity:1"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2" />
+  <path
+     style="fill:#ffffff"
+     d="M 17,7 V 14.601562 19.5 C 17,20.880712 15.880712,22 14.5,22 13.119288,22 12,20.880712 12,19.5 12,18.119288 13.119288,17 14.5,17 c 0.167949,8.9e-5 0.335462,0.0171 0.5,0.05078 V 14.027344 C 14.833835,14.010643 14.666995,14.001519 14.5,14 11.462434,14 9,16.462434 9,19.5 9,22.537566 11.462434,25 14.5,25 17.537566,25 20,22.537566 20,19.5 V 13.111328 C 21.18412,13.919478 22.459655,14.5 24,14.5 V 11.966797 11.3125 c -0.806137,4.85e-4 -1.443354,-0.227037 -2.126953,-0.654297 v 0.002 C 20.961882,10.09174 20.287892,9.1884633 20,8.1269531 L 19.8,7 Z"
+     id="path3" />
+</svg>

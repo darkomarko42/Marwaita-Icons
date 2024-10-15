@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="AdobeIncopy.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.21875"
+     inkscape:cx="15.979355"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="opacity:0.5;fill:#000000;filter:url(#filter6)"
+     rx="1.4"
+     ry="1.4"
+     height="28"
+     width="28"
+     y="2.0000005"
+     x="2.0000005"
+     id="rect1-7" />
+  <rect
+     x="2"
+     y="2"
+     width="28"
+     height="28"
+     rx="1.4"
+     ry="1.4"
+     style="fill:#6c4782"
+     id="rect1" />
+  <rect
+     x="10"
+     y="9"
+     width="3"
+     height="14"
+     style="fill:#d2b7e7"
+     id="rect3" />
+  <path
+     d="m21.5 13c-4.5 0-5.5 2.238576-5.5 5s1 5 5.5 5c0.511248-0.0016 1.018508-0.100039 1.5-0.291016v-2.3125c-0.432373 0.390722-0.95874 0.602502-1.5 0.603516-2.5 0-3.5-1.343146-3.5-3s1-3 3.5-3c0.54126 1e-3 1.067627 0.212794 1.5 0.603516v-2.3125c-0.481492-0.190977-0.988752-0.289391-1.5-0.291016z"
+     style="fill:#d2b7e7"
+     id="path4" />
+</svg>
